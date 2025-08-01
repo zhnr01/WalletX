@@ -113,14 +113,17 @@ The wallet stores saved addresses in `wallet_db.json` in the project root.
 
 ### 🖥 1. Application Startup
 When the wallet starts, it shows your current ETH balance and a form to send ETH.
+
 ![Startup Screenshot](images/startup.png)
 
 ### 📜 2. Selecting an Account
 You can select a saved address from the dropdown menu.
+
 ![Select Account Screenshot](images/select_account.png)
 
 ### 💸 3. After Transfer
 After a successful transfer, you’ll see a confirmation message.
+
 ![After Transfer Screenshot](images/after_transfer.png)
 
 ---
