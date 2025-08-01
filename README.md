@@ -30,7 +30,6 @@ Before you begin, make sure you have:
 3. **Ape Framework** installed  
    ```bash
    pip install eth-ape'[recommended-plugins]'
-````
 
 4. **Node provider access** (Infura, Alchemy, or local Geth)
 
