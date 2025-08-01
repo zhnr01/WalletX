@@ -1,8 +1,4 @@
 # WalletX
-A simple Web3 wallet.
-
-
-# Cryptocurrency Wallet (Tkinter + Ape Framework)
 
 A simple cryptocurrency wallet built with **Tkinter** for the GUI and **Ape Framework** for blockchain interactions.  
 This wallet allows you to:
